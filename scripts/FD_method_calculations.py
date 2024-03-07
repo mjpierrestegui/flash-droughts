@@ -24,10 +24,10 @@ import xarray as xr
 import os
 
 
-#%% Establezco Ruta de archivos:
+#%% Establecer Ruta de archivos:
     
-data_path = os.path.join('/Users','Usuario','OneDrive','Documentos','2-DOCTORADO', 'FlashDrought' ,'1-Mundo')
-results_path = os.path.join('/Users','Usuario','OneDrive','Documentos','2-DOCTORADO', 'FlashDrought' ,'1-Mundo', '2023-11-revision' , 'Resultado-corrida_restricciones')
+data_path = os.path.join('/Users','Usuario',...)
+results_path = os.path.join('/Users','Usuario',...)
 
 
 
